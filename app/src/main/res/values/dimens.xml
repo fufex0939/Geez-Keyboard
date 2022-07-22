@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="candidate_vertical_padding">8dp</dimen>
+    <dimen name="candidate_font_height">4dp</dimen>
+</resources>

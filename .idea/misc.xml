@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Keyboard/app/src/main/res/layout/activity_main.xml" value="0.23333333333333334" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/layout/de_family.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/layout/keyboard.xml" value="0.1" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/layout/preview.xml" value="0.1" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/layout/text_view_emoji.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/a_family.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/aa_family.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/amaharic_num.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/be_family.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/ce_family.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/che_family.xml" value="0.186328125" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/de_family.xml" value="0.186328125" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/fe_family.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/ge_family.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/ha_family.xml" value="0.186328125" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/haleta_family.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/ime_preferences.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/keyboard.xml" value="0.1" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/letter_qwerty.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/method.xml" value="0.2484375" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/number_qwerty.xml" value="0.1" />
+        <entry key="..\:/Android/Keyboard/app/src/main/res/xml/ts_family.xml" value="0.2484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
